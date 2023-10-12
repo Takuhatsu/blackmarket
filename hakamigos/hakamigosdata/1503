@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/1503.png",
+  "name": "Hakamigos #1503",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Blue"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Knight Armor"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreads Long"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/3612.png",
+  "name": "Hakamigos #3612",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Knit Royal"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Breakdancer Elite"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

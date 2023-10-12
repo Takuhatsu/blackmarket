@@ -1,0 +1,18 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/68.png",
+  "name": "Hakamigos #68",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Vintage Track Jacket"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/13650.png",
+  "name": "Hakamigos #13650",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Cool G Sweater"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Havana Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

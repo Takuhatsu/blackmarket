@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/5039.png",
+  "name": "Hakamigos #5039",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Lumberjack Flannel"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

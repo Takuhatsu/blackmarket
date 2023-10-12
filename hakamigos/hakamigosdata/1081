@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/1081.png",
+  "name": "Hakamigos #1081",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Breakdancer Blue"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

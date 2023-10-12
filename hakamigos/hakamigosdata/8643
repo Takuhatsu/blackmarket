@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8643.png",
+  "name": "Hakamigos #8643",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Shaggy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Knight Armor"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

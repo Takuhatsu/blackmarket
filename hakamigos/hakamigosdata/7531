@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/7531.png",
+  "name": "Hakamigos #7531",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Vintage Track Jacket"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

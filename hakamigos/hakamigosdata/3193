@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/3193.png",
+  "name": "Hakamigos #3193",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "BBall - Legend"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

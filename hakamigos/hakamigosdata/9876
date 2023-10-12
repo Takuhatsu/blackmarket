@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/9876.png",
+  "name": "Hakamigos #9876",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Blue"
+    }
+  ]
+}

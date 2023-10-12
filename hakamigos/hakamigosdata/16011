@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/16011.png",
+  "name": "Hakamigos #16011",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "Superhero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "T-shirt Aqua"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8560.png",
+  "name": "Hakamigos #8560",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Hawaiian"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/13784.png",
+  "name": "Hakamigos #13784",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Moto Jacket Yellow"
+    }
+  ]
+}

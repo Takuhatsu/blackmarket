@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/13584.png",
+  "name": "Hakamigos #13584",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Varsity Green"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flat Top"
+    }
+  ]
+}

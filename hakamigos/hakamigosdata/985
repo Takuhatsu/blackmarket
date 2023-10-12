@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/985.png",
+  "name": "Hakamigos #985",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Knight Armor"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/1587.png",
+  "name": "Hakamigos #1587",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Green"
+    }
+  ]
+}

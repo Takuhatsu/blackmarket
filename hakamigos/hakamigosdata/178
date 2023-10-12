@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/178.png",
+  "name": "Hakamigos #178",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Karen Cut"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Football - Prime"
+    }
+  ]
+}

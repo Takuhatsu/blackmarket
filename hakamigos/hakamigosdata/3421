@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/3421.png",
+  "name": "Hakamigos #3421",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "VR Red"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Moto Jacket Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

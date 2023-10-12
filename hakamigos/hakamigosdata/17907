@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/17907.png",
+  "name": "Hakamigos #17907",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaggy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

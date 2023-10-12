@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/14766.png",
+  "name": "Hakamigos #14766",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Ribbed Sweater"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Invisible"
+    }
+  ]
+}

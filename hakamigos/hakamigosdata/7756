@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/7756.png",
+  "name": "Hakamigos #7756",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Hoodie"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8379.png",
+  "name": "Hakamigos #8379",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "Royal Purple"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Bucket Hat White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

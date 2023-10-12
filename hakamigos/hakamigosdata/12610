@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/12610.png",
+  "name": "Hakamigos #12610",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "T-shirt Pink"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "FB Helmet Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

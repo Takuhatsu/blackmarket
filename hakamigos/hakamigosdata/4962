@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/4962.png",
+  "name": "Hakamigos #4962",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Green"
+    }
+  ]
+}

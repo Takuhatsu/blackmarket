@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/311.png",
+  "name": "Hakamigos #311",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Blonde"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Breakdancer Elite"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

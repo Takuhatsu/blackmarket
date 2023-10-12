@@ -1,0 +1,34 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2206.png",
+  "name": "Hakamigos #2206",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Argyle Sweater"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Gaming Headset"
+    }
+  ]
+}

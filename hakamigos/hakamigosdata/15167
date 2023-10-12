@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/15167.png",
+  "name": "Hakamigos #15167",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve Grey"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

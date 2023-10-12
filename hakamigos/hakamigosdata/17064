@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/17064.png",
+  "name": "Hakamigos #17064",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Varsity Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

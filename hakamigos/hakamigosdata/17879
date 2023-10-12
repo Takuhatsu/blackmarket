@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/17879.png",
+  "name": "Hakamigos #17879",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Yellow"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Knit White"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Red"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

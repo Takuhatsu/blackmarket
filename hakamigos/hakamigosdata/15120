@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/15120.png",
+  "name": "Hakamigos #15120",
+  "attributes": [
+    {
+      "trait_type": "Tie",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt Pink"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

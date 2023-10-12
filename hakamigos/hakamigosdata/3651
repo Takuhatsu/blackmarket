@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/3651.png",
+  "name": "Hakamigos #3651",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "VR Red"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve White"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Bucket Hat Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/235.png",
+  "name": "Hakamigos #235",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve Olive"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

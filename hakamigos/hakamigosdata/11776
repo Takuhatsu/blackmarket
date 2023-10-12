@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/11776.png",
+  "name": "Hakamigos #11776",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Ninja Outfit",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Knit Yellow"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/16807.png",
+  "name": "Hakamigos #16807",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Knight Armor"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    }
+  ]
+}

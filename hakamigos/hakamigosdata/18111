@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/18111.png",
+  "name": "Hakamigos #18111",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Havana Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Hef Robe"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Blue"
+    }
+  ]
+}

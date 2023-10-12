@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/10667.png",
+  "name": "Hakamigos #10667",
+  "attributes": [
+    {
+      "trait_type": "Headphones",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt Blue"
+    }
+  ]
+}

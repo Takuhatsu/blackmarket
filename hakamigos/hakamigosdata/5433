@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/5433.png",
+  "name": "Hakamigos #5433",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "French Navy Sweater"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

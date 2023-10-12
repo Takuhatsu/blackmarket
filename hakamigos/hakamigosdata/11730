@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/11730.png",
+  "name": "Hakamigos #11730",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "RnB Vest"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Lumberjack Hat"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

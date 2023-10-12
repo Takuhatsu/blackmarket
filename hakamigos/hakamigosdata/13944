@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/13944.png",
+  "name": "Hakamigos #13944",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Turtleneck White"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

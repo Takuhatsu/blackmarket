@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/10450.png",
+  "name": "Hakamigos #10450",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    }
+  ]
+}

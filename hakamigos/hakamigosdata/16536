@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/16536.png",
+  "name": "Hakamigos #16536",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Red"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/390.png",
+  "name": "Hakamigos #390",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Pajamas"
+    }
+  ]
+}

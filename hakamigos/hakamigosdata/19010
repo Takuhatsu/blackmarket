@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/19010.png",
+  "name": "Hakamigos #19010",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Scrubs"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Purple"
+    }
+  ]
+}

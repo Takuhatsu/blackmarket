@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/15341.png",
+  "name": "Hakamigos #15341",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Fly"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Epic Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Green"
+    }
+  ]
+}

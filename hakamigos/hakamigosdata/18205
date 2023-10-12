@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/18205.png",
+  "name": "Hakamigos #18205",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Blue Flannel"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Spartan Helmet"
+    }
+  ]
+}

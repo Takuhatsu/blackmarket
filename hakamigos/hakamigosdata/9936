@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/9936.png",
+  "name": "Hakamigos #9936",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Desert Camo"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Spartan Helmet"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

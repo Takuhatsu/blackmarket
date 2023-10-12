@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/7032.png",
+  "name": "Hakamigos #7032",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flat Top"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt Blue"
+    }
+  ]
+}

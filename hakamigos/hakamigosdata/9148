@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/9148.png",
+  "name": "Hakamigos #9148",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purp Nerd"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Purple"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Work Jacket"
+    }
+  ]
+}

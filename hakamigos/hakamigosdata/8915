@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8915.png",
+  "name": "Hakamigos #8915",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Blue Flannel"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaggy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

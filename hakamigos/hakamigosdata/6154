@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/6154.png",
+  "name": "Hakamigos #6154",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Knit Royal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Fancy Flannel"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

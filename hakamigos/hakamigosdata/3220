@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/3220.png",
+  "name": "Hakamigos #3220",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Spacesuit"
+    }
+  ]
+}

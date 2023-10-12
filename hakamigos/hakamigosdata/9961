@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/9961.png",
+  "name": "Hakamigos #9961",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt White"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2595.png",
+  "name": "Hakamigos #2595",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Hawaiian"
+    }
+  ]
+}

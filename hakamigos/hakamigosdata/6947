@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/6947.png",
+  "name": "Hakamigos #6947",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Havana Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Bucket Hat Pink"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Moto Jacket Yellow"
+    }
+  ]
+}

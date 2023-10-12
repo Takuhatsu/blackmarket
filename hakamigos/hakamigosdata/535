@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/535.png",
+  "name": "Hakamigos #535",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Gaming Headset"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/18466.png",
+  "name": "Hakamigos #18466",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Tie-dye"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

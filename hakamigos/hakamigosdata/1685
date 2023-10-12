@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/1685.png",
+  "name": "Hakamigos #1685",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt White"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Blue"
+    }
+  ]
+}

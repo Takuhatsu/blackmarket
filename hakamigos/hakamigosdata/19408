@@ -1,0 +1,30 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/19408.png",
+  "name": "Hakamigos #19408",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Varsity Purple"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    }
+  ]
+}

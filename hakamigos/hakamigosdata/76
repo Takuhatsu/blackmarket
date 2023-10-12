@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/76.png",
+  "name": "Hakamigos #76",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Epic Beard"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Bobsled Jacket"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2038.png",
+  "name": "Hakamigos #2038",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "VR Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Tie-dye"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

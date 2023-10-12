@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/439.png",
+  "name": "Hakamigos #439",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "FB Helmet Kicker"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Lumberjack Flannel"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Invisible"
+    }
+  ]
+}

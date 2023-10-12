@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/10350.png",
+  "name": "Hakamigos #10350",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Turtleneck White"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

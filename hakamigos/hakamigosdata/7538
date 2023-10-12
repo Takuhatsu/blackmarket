@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/7538.png",
+  "name": "Hakamigos #7538",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Spacesuit"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/626.png",
+  "name": "Hakamigos #626",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Olive"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Football - Broadway J"
+    }
+  ]
+}

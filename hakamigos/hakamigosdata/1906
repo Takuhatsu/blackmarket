@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/1906.png",
+  "name": "Hakamigos #1906",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Lumberjack Flannel"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreads Long"
+    }
+  ]
+}

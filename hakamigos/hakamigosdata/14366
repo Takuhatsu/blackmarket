@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/14366.png",
+  "name": "Hakamigos #14366",
+  "attributes": [
+    {
+      "trait_type": "Mask",
+      "value": "Wrestler Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Breakdancer Double Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Medallion"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

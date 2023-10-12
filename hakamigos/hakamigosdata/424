@@ -1,0 +1,18 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/424.png",
+  "name": "Hakamigos #424",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Lumberjack Flannel"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Navy"
+    }
+  ]
+}

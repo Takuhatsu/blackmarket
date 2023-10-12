@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/16242.png",
+  "name": "Hakamigos #16242",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve White"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    }
+  ]
+}

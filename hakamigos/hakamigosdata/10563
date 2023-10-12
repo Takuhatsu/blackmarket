@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/10563.png",
+  "name": "Hakamigos #10563",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dojo Top"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

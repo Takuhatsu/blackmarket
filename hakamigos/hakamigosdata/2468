@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2468.png",
+  "name": "Hakamigos #2468",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Frog Gold"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purp Nerd"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Lumberjack Flannel"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    }
+  ]
+}

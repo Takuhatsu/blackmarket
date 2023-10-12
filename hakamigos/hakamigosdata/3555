@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/3555.png",
+  "name": "Hakamigos #3555",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Epic Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "T-shirt Aqua"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Gaming Headset"
+    }
+  ]
+}

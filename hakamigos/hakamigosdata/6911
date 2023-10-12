@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/6911.png",
+  "name": "Hakamigos #6911",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Turtleneck Black"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

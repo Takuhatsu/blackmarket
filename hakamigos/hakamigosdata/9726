@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/9726.png",
+  "name": "Hakamigos #9726",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Moto Jacket Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    }
+  ]
+}

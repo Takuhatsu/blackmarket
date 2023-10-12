@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/9978.png",
+  "name": "Hakamigos #9978",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Cobra Top"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    }
+  ]
+}

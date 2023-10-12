@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8387.png",
+  "name": "Hakamigos #8387",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Knight Helmet"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Polo Pink"
+    }
+  ]
+}

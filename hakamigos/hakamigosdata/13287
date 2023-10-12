@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/13287.png",
+  "name": "Hakamigos #13287",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/133.png",
+  "name": "Hakamigos #133",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt White"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purp Nerd"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Blue"
+    }
+  ]
+}

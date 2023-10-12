@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/12929.png",
+  "name": "Hakamigos #12929",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Racer Yellow"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "Royal Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve Olive"
+    }
+  ]
+}

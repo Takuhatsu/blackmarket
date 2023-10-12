@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/1426.png",
+  "name": "Hakamigos #1426",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Purple"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Bobsled Jacket"
+    }
+  ]
+}

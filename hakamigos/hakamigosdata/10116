@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/10116.png",
+  "name": "Hakamigos #10116",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Ribbed Sweater"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Pink"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/17472.png",
+  "name": "Hakamigos #17472",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Medallion"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Green"
+    }
+  ]
+}

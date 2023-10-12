@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/15450.png",
+  "name": "Hakamigos #15450",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Hawaiian"
+    }
+  ]
+}

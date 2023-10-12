@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8321.png",
+  "name": "Hakamigos #8321",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "FB Helmet Orange"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Tennis Sweater"
+    }
+  ]
+}

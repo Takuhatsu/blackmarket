@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/166.png",
+  "name": "Hakamigos #166",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Bucket Hat White"
+    },
+    {
+      "trait_type": "Ninja Outfit",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt Blue"
+    }
+  ]
+}

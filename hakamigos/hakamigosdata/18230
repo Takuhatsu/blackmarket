@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/18230.png",
+  "name": "Hakamigos #18230",
+  "attributes": [
+    {
+      "trait_type": "Vest/Armor",
+      "value": "VC Vest"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreads Long"
+    }
+  ]
+}

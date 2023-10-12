@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/15388.png",
+  "name": "Hakamigos #15388",
+  "attributes": [
+    {
+      "trait_type": "Cape",
+      "value": "Superhero"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Hoodie"
+    }
+  ]
+}

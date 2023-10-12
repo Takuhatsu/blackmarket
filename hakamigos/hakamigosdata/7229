@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/7229.png",
+  "name": "Hakamigos #7229",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Blue Flannel"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Lumberjack Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

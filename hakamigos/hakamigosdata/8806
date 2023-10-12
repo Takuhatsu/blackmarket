@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8806.png",
+  "name": "Hakamigos #8806",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "LL Bucket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Spartan Armor"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Invisible"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/242.png",
+  "name": "Hakamigos #242",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "T-shirt Vneck"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Knit Orange"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frog"
+    }
+  ]
+}

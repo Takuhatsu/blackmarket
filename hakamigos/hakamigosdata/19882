@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/19882.png",
+  "name": "Hakamigos #19882",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve Grey"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "Royal Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

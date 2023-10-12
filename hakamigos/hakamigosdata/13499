@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/13499.png",
+  "name": "Hakamigos #13499",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Fly"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Vintage Track Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

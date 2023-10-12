@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/16417.png",
+  "name": "Hakamigos #16417",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "FB Helmet Green"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Work Jacket"
+    }
+  ]
+}

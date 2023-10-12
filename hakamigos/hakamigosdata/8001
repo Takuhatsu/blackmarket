@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8001.png",
+  "name": "Hakamigos #8001",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Blue"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Pajamas"
+    }
+  ]
+}

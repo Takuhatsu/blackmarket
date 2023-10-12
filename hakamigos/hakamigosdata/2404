@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2404.png",
+  "name": "Hakamigos #2404",
+  "attributes": [
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Polo Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

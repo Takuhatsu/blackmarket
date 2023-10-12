@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/4369.png",
+  "name": "Hakamigos #4369",
+  "attributes": [
+    {
+      "trait_type": "Cape",
+      "value": "Superhero"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Knight Armor"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    }
+  ]
+}

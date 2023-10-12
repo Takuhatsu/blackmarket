@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/4759.png",
+  "name": "Hakamigos #4759",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt Pink"
+    }
+  ]
+}

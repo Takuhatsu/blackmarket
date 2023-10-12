@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/17873.png",
+  "name": "Hakamigos #17873",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt Pink"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Bucket Hat Teal"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8245.png",
+  "name": "Hakamigos #8245",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Pumpkin Spice"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Ribbed Sweater"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flat Top"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/18588.png",
+  "name": "Hakamigos #18588",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap White"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Puffy Coat Blue"
+    }
+  ]
+}

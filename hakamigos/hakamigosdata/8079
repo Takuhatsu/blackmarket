@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8079.png",
+  "name": "Hakamigos #8079",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Racer Orange"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Blocky Sweater"
+    }
+  ]
+}

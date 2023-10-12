@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/18831.png",
+  "name": "Hakamigos #18831",
+  "attributes": [
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Life Vest"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve White"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    }
+  ]
+}

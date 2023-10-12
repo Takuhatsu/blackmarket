@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8731.png",
+  "name": "Hakamigos #8731",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "T-shirt Vneck"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Epic Beard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    }
+  ]
+}

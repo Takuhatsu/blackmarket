@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/1579.png",
+  "name": "Hakamigos #1579",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Polo Red"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "VC Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

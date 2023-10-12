@@ -1,0 +1,18 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8438.png",
+  "name": "Hakamigos #8438",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Varsity Green"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    }
+  ]
+}

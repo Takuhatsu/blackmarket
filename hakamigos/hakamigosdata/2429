@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2429.png",
+  "name": "Hakamigos #2429",
+  "attributes": [
+    {
+      "trait_type": "Headband",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flat Top"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2384.png",
+  "name": "Hakamigos #2384",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Epic Beard"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "French Navy Sweater"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

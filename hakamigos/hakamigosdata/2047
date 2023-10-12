@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/2047.png",
+  "name": "Hakamigos #2047",
+  "attributes": [
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Life Vest"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Dojo"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

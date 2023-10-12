@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/11112.png",
+  "name": "Hakamigos #11112",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Faux Diplomat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frump"
+    }
+  ]
+}

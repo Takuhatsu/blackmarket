@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/8629.png",
+  "name": "Hakamigos #8629",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Scrubs"
+    },
+    {
+      "trait_type": "Ninja Outfit",
+      "value": "Midnight"
+    }
+  ]
+}

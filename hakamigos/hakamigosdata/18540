@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/18540.png",
+  "name": "Hakamigos #18540",
+  "attributes": [
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Life Vest"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Epic Beard"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap White"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Long Sleeve Olive"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

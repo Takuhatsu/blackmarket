@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/12101.png",
+  "name": "Hakamigos #12101",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Knit White"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Breakdancer Elite"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Epic Beard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Latte"
+    }
+  ]
+}

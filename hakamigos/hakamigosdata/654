@@ -1,0 +1,18 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/654.png",
+  "name": "Hakamigos #654",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Black"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Spartan Armor"
+    }
+  ]
+}

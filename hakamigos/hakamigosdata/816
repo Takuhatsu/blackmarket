@@ -1,0 +1,26 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/816.png",
+  "name": "Hakamigos #816",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Baseball Cap Black"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Cobra Top"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    }
+  ]
+}

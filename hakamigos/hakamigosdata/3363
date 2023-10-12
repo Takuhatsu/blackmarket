@@ -1,0 +1,18 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/3363.png",
+  "name": "Hakamigos #3363",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "LL Bucket"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Ribbed Sweater"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    }
+  ]
+}

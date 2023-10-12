@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/736.png",
+  "name": "Hakamigos #736",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snowman"
+    }
+  ]
+}

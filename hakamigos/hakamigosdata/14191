@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/14191.png",
+  "name": "Hakamigos #14191",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Racer Yellow"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Camo Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

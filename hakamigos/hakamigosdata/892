@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/892.png",
+  "name": "Hakamigos #892",
+  "attributes": [
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "FB Helmet Orange"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Scrubs"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Boba"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    }
+  ]
+}

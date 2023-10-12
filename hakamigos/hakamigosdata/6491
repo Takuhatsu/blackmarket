@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/6491.png",
+  "name": "Hakamigos #6491",
+  "attributes": [
+    {
+      "trait_type": "Facial Hair",
+      "value": "Solid Beard"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Coffee"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Spartan Helmet"
+    },
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Spartan Armor"
+    }
+  ]
+}

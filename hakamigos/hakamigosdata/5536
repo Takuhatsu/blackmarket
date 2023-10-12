@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/5536.png",
+  "name": "Hakamigos #5536",
+  "attributes": [
+    {
+      "trait_type": "Vest/Armor",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Backwards Cap Fly"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dress Shirt Blue"
+    }
+  ]
+}

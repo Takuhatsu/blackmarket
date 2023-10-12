@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/6641.png",
+  "name": "Hakamigos #6641",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human Mocha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreads Short"
+    },
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Moto Jacket Red"
+    }
+  ]
+}

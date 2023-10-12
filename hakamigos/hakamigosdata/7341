@@ -1,0 +1,22 @@
+{
+  "image": "https://blackmarket.rockstardrop.com/hakamigos/hakamigosimages/7341.png",
+  "name": "Hakamigos #7341",
+  "attributes": [
+    {
+      "trait_type": "Shirt/Jacket",
+      "value": "Dojo Top"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Hat/Helmet",
+      "value": "Bucket Hat Teal"
+    }
+  ]
+}
