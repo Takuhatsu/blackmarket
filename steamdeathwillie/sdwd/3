@@ -1,12 +1,6 @@
 {
   "name": "Steamdeath Willie #3",
-  "description": "10000 Death Willies.",
-  "image": "https://i.ibb.co/5hp5f1D/steamdeath-willie.gif",
-  "attributes": [
-    {
-      "trait_type": "Head",
-      "value": "Captain Hat"
-    }
-  ],
-  "animation_url": "https://raw.githubusercontent.com/Takuhatsu/blackmarket/main/steamdeathwillie/steamdeathwilliemedia/steamdeath_1.mp4"
+  "description": "666 Willies risen from the grave. ©Takuhatsu MMXXIV.",
+  "image": "https://blackmarket.rockstardrop.com/steamdeathwillie/sdwm/sdw666.gif",
+  "animation_url": "https://blackmarket.rockstardrop.com/steamdeathwillie/sdwm/sdw666.mp4"
 }
